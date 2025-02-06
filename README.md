@@ -1,2 +1,2 @@
 # Pod-lingo
-AI- powered video transformer
+AI- powered video transformer (Client Side)
